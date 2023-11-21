@@ -1,0 +1,23 @@
+{
+    "logo": {
+        "img": "/img/homepage/logo.avif",
+        "link": "/",
+        "altimg": "Logo"
+    },
+    "nav": [
+        {
+            "text": "Home",
+            "link": "/"
+        },
+        {
+            "text": "Service",
+            "link": "/service"
+        },
+        {
+            "text": "Contact",
+            "link": "/contact"
+        }
+       
+    ]
+   
+}

@@ -1,0 +1,23 @@
+{
+    "herosection": {
+        "img": "/img/homepage/meeting.jpeg",
+        "alt": "meeting",
+        "title": "THE SMART CHOICE IN CUSTOMER ACQUISITION"
+    },
+    "herosection_1": {
+        "title": "About Us",
+        "items": [
+            {
+                "img": "/img/homepage/ourcompany.jpg",
+                "title": "Our Company",
+                "desc": " WMS was founded to serve as a direct marketing firm for deregulated energy and telecom companies. To date, we have successfully launched, managed, and expanded over many campaigns throughout the Mid-Atlantic region with many of our customers returning as repeat business. Our expertise and knowledge of deregulated businesses and the sensitive nature of procuring customers in these types of markets place WMS at the forefront of today’s customer acquisition companies. WMS is one of the largest direct sales companies in the Mid-Atlantic and North East regions of the US. "
+            },
+            {
+                "img": "/img/homepage/Sales Methods.jpeg",
+                "title": "Our Proven Sales Methods",
+                "desc": " WMS focuses on Face-to-Face sales techniques and has done so since its conception. Our staff is highly trained in effective sales presentations including compliance to ensure that our clients are only receiving informed long lasting customers. We take pride in having one of the lowest complaint percentages in the business. WMS also knows that while each program is different, overall, our clients experience less churn due to extensive quality control measures. "
+            }
+           
+        ]
+    }
+}
